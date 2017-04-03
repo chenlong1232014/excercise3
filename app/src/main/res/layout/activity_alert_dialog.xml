@@ -13,11 +13,13 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="50dp"
+        android:hint="Username"
         android:id="@+id/editText" />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:id="@+id/editText2"
+        android:hint="Password"
         android:inputType="textPassword"/>
 </LinearLayout>
